@@ -2,6 +2,8 @@
 
 This repository contains boilerplate for my TypeScript projects.
 
+**Info: I do not use this boilerplate anymore. Find the most recent one on my [GitHub profile](https://github.com/clouedoc) and use that instead.**
+
 ## To edit
 
 1. "bin" name in `package.json` and "bin" in "oclif" in `package.json`
